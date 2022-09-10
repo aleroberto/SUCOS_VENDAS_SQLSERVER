@@ -1,4 +1,9 @@
 
+
+--Achando o valor total do crédito
+--Crie um script usando um cursor para achar o valor total de todos os créditos de todos os clientes.
+--https://cursos.alura.com.br/course/tsql-com-sql-server-2017
+
 DECLARE @OLIMITE FLOAT
 
 DECLARE CURSOR2  CURSOR FOR
